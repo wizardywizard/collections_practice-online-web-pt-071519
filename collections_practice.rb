@@ -37,7 +37,10 @@ array
 end
 
 def find_a(array)
+  food = []
   array.start_with?("a")
+  if true
+    food
 end
 
 
