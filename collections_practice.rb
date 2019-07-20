@@ -38,9 +38,8 @@ end
 
 def find_a(array)
   food = []
-  array.start_with?("a")
-  if true
-    food
+  array.each do |food|
+  food.start_with?("a")
 end
 
 
