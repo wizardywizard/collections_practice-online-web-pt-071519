@@ -31,7 +31,8 @@ end
 
 def kesha_maker(array)
   array.split(" ")
-  
+  array.each do |name|
+    
 
 end
 
