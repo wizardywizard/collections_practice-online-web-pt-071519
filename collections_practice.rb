@@ -41,7 +41,7 @@ def find_a(array)
   array.each do |food|
   food.start_with?("a")
    if true
-    name << food[0]
+    name << food
    else
    end
   end
