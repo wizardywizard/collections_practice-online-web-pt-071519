@@ -43,6 +43,7 @@ def find_a(array)
    if true
     name << food
    else
+     0
    end
   end
   name
