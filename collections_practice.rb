@@ -42,6 +42,8 @@ def find_a(array)
   food.start_with?("a")
   if true
     name << food[0]
+  else
+   end
   end
 end
 
