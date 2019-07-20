@@ -37,7 +37,7 @@ array
 end
 
 def find_a(array)
-  array
+  array.select
 end
 
 
