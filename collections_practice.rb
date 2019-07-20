@@ -30,5 +30,5 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
-  array.insert[]
+  array.insert 2, $
 end
