@@ -45,6 +45,7 @@ def find_a(array)
    else
    end
   end
+  name
 end
 
 
