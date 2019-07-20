@@ -40,6 +40,7 @@ def find_a(array)
   food = []
   array.each do |food|
   food.start_with?("a")
+  end
 end
 
 
